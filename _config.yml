@@ -1,0 +1,26 @@
+url: https://github.com/gmc2777522/Homepage
+baseurl: /Homepage
+
+# Site settings
+title: Mengcheng Gong
+email: gmc2777522@gmail.com
+description: "Welcome to my personal website. My name is Mengcheng Gong. I am a Computer Engineering student at University of Waterloo. Let's get start to find more about me!"
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/MC_Gmcccccc
+  - title: facebook
+    url: http://facebook.com/mengcheng.gong
+  - title: github
+    url: http://github.com/gmc2777522
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 121 University Ave E
+  - line: Waterloo, ON, Canada
+  - line: N2J 4C1
+
+# Build settings
+markdown:
+permalink:
